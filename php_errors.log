@@ -2,3 +2,46 @@
 [13-Jun-2016 12:50:30 UTC] PHP Stack trace:
 [13-Jun-2016 12:50:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/working/basic_printf.php:0
 [13-Jun-2016 12:50:30 UTC] PHP   2. printf() /home/ubuntu/workspace/working/basic_printf.php:22
+[13-Jun-2016 15:35:24 UTC] PHP Fatal error:  Cannot access protected property Address::$_address_id in /home/ubuntu/workspace/working/demo.php on line 21
+[13-Jun-2016 15:35:24 UTC] PHP Stack trace:
+[13-Jun-2016 15:35:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/working/demo.php:0
+[13-Jun-2016 16:54:48 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/ubuntu/workspace/working/class.Address.inc on line 29
+[13-Jun-2016 16:54:48 UTC] PHP Stack trace:
+[13-Jun-2016 16:54:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/working/demo.php:0
+[13-Jun-2016 16:56:50 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/ubuntu/workspace/working/class.Address.inc on line 29
+[13-Jun-2016 16:56:50 UTC] PHP Stack trace:
+[13-Jun-2016 16:56:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/working/demo.php:0
+[13-Jun-2016 16:56:51 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/ubuntu/workspace/working/class.Address.inc on line 29
+[13-Jun-2016 16:56:51 UTC] PHP Stack trace:
+[13-Jun-2016 16:56:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/working/demo.php:0
+[13-Jun-2016 16:56:58 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/ubuntu/workspace/working/class.Address.inc on line 29
+[13-Jun-2016 16:56:58 UTC] PHP Stack trace:
+[13-Jun-2016 16:56:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/working/demo.php:0
+[13-Jun-2016 16:57:09 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/ubuntu/workspace/working/class.Address.inc on line 29
+[13-Jun-2016 16:57:09 UTC] PHP Stack trace:
+[13-Jun-2016 16:57:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/working/demo.php:0
+[13-Jun-2016 17:46:03 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/ubuntu/workspace/working/class.Address.inc on line 29
+[13-Jun-2016 17:46:03 UTC] PHP Stack trace:
+[13-Jun-2016 17:46:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/working/demo.php:0
+[13-Jun-2016 17:48:10 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/ubuntu/workspace/working/class.Address.inc on line 29
+[13-Jun-2016 17:48:10 UTC] PHP Stack trace:
+[13-Jun-2016 17:48:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/working/demo.php:0
+[13-Jun-2016 17:49:36 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/ubuntu/workspace/working/class.Address.inc on line 31
+[13-Jun-2016 17:49:36 UTC] PHP Stack trace:
+[13-Jun-2016 17:49:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/working/demo.php:0
+[13-Jun-2016 17:49:44 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/ubuntu/workspace/working/class.Address.inc on line 31
+[13-Jun-2016 17:49:44 UTC] PHP Stack trace:
+[13-Jun-2016 17:49:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/working/demo.php:0
+[13-Jun-2016 17:51:37 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/ubuntu/workspace/working/class.Address.inc on line 31
+[13-Jun-2016 17:51:37 UTC] PHP Stack trace:
+[13-Jun-2016 17:51:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/working/demo.php:0
+[13-Jun-2016 17:52:24 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/ubuntu/workspace/working/class.Address.inc on line 31
+[13-Jun-2016 17:52:24 UTC] PHP Stack trace:
+[13-Jun-2016 17:52:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/working/demo.php:0
+[13-Jun-2016 21:11:39 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ubuntu/workspace/working/demo.php on line 37
+[13-Jun-2016 21:11:48 UTC] PHP Catchable fatal error:  Object of class Address could not be converted to string in /home/ubuntu/workspace/working/demo.php on line 37
+[13-Jun-2016 21:11:48 UTC] PHP Stack trace:
+[13-Jun-2016 21:11:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/working/demo.php:0
+[13-Jun-2016 21:12:00 UTC] PHP Catchable fatal error:  Object of class Address could not be converted to string in /home/ubuntu/workspace/working/demo.php on line 37
+[13-Jun-2016 21:12:01 UTC] PHP Stack trace:
+[13-Jun-2016 21:12:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/working/demo.php:0
