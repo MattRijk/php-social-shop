@@ -1,0 +1,4 @@
+[13-Jun-2016 12:50:30 UTC] PHP Warning:  printf(): Too few arguments in /home/ubuntu/workspace/working/basic_printf.php on line 22
+[13-Jun-2016 12:50:30 UTC] PHP Stack trace:
+[13-Jun-2016 12:50:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/working/basic_printf.php:0
+[13-Jun-2016 12:50:30 UTC] PHP   2. printf() /home/ubuntu/workspace/working/basic_printf.php:22
