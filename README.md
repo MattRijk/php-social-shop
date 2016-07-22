@@ -31,5 +31,10 @@ To watch some training videos, visit http://www.youtube.com/user/c9ide
 
 
 Phpmyadmin
+
+mysql-ctl start
+
+phpmyadmin-ctl install
+
 Username: mattrijk
 password: blank
